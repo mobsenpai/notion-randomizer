@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@notionhq/client": "^2.2.13",
+    "axios": "^1.5.0",
+    "dotenv": "^16.3.1"
+  },
+  "name": "notion-randomizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
