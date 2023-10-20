@@ -4,11 +4,11 @@
 
 ## Notion locally
 
-[X] fill the .env file
+- [x] fill the .env file
 
-[X] database id will be in the link which you see in the url
+- [x] database id will be in the link which you see in the url
 
-[X] for randomizer key, make an integration and paste the secret key there
+- [x] for randomizer key, make an integration and paste the secret key there
 
 ```
 npm init
@@ -20,12 +20,12 @@ npm run notion.js
 
 ## Notion with pipedream (recommended)
 
-[X] click [here](https://pipedream.com/new?h=tch_m1Afrn) to use this workflow
+- [x] click [here](https://pipedream.com/new?h=tch_m1Afrn) to use this workflow
 
-[X] just connect notion account to pipedream give access to required pages
+- [x] just connect notion account to pipedream give access to required pages
 
-[X] choose the database to work upon
+- [x] choose the database to work upon
 
-[X] set the time
+- [x] set the time
 
-[X] Deploy the workflow, and Done!
+- [x] Deploy the workflow, and Done!
