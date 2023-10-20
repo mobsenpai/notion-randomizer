@@ -29,3 +29,7 @@ npm run notion.js
 - [x] set the time
 
 - [x] Deploy the workflow, and Done!
+
+## Notes
+
+- [ ] make a 'Show' property in the database which will be checked
