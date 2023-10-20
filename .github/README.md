@@ -32,4 +32,4 @@ npm run notion.js
 
 ## Notes
 
-- [ ] make a 'Show' property in the database which will be checked
+- [ ] make a 'Show' checkbox property in the database which will be checked
